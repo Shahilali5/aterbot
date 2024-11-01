@@ -1,11 +1,11 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
-		"username": "Please enter the bot's username you want"
+		"host": "SkyFogeWar.aternos.me",
+		"port": "43167",
+		"username": "SkyForgeWarServer"
 	},
 	
-	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
+	"! DO NOT EDIT BELOW !": "Server Is Online 24/7",
 	"logLevel": ["error", "log", "debug"],
 	"action": {
 		"commands": ["forward", "back", "left", "right", "jump"],
